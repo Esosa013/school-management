@@ -27,7 +27,7 @@ const mockUsers = [
       lastName: "Lan’Ngwaldi",
       middleName: "Mark",
       fullName: "Dillum Mark Lan’Ngwaldi",
-      email: "Omotade.emma-leke@binghamuni.edu.ng",
+      email: "Mark.dillum@binghamuni.edu.ng",
       personalEmail: "adebayoemmanuel@gmail.com",
       phoneNumber: "+234-813-456-7890",
       alternatePhoneNumber: "+234-802-345-6789",

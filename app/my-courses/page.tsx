@@ -80,7 +80,7 @@ const MyCourses = () => {
         <div className="mx-auto max-w-7xl">
           <h1 className="text-3xl font-bold">My Courses</h1>
           <p className="mt-2 text-gray-200">
-            Manage and view details of your enrolled courses.
+            Manage and view your enrolled courses.
           </p>
         </div>
       </div>
@@ -124,12 +124,12 @@ const MyCourses = () => {
                     <strong>Lecturer:</strong> Mr Francis James
                   </p>
                 </div>
-                <button
+                {/* <button
                   onClick={() => router.push(`/courses/${course.courseId}`)}
                   className="mt-4 flex items-center justify-center rounded-md bg-[#F5B596] px-4 py-2 text-sm font-medium text-white transition-colors hover:bg-[#576086]"
                 >
                   View Details <ChevronRight className="ml-2" size={18} />
-                </button>
+                </button> */}
               </div>
             ))
           ) : (

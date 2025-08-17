@@ -6,7 +6,7 @@ import { Student } from '@/types';
 
 export async function GET() {
   try {
-    const email = "Omotade.emma-leke@binghamuni.edu.ng";
+    const email = "Mark.dillum@binghamuni.edu.ng";
     const id = "BHU/21/04/10/0019";
 
     const { user, error } = await getUserByLogin(email, id);

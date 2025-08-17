@@ -5,8 +5,8 @@ export async function GET() {
   try {
     const mockStudent = {
       personalInfo: {
-        fullName: "Emma-leke Omatade Peace",
-        email: "Omotade.emma-leke@binghamuni.edu.ng"
+        fullName: "Mark Dillum",
+        email: "Mark.dillum@binghamuni.edu.ng"
       },
       academicInfo: {
         studentId: "BHU/21/04/10/0019",
